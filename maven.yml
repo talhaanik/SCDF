@@ -1,0 +1,7 @@
+maven:
+  remote-repositories:
+    repo1:
+      url: https://repo.maven.apache.org/maven2/
+      policy:
+        update-policy: always
+        checksum-policy: fail
